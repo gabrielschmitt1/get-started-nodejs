@@ -4,6 +4,7 @@
   "description": "Projeto Simples para estudos com NodeJS",
   "main": "index.js",
   "scripts": {
+    "start":"node app.js",
     "test": "jest"
   },
   "author": "",
