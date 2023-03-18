@@ -13,7 +13,7 @@ Pré-requisitos:
 - npm
 - docker
 - docker-compose
-- jest
+- jes
 
 ### Estrutura de pastas
 
